@@ -29,3 +29,8 @@ This project is a command-line calculator built using Python.
 
 ### Technologies Used:
 - Python
+
+## Task 3: Password Generator
+- Generates strong random passwords
+- User can choose password length
+- Uses letters, numbers and symbols
